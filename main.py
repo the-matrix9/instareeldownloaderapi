@@ -18,6 +18,7 @@ async def homepage():
     <ul>
         <li>Make sure the post is public.</li>
         <li>This uses yt-dlp under the hood.</li>
+        <li>Developer :- @cyber_ansh </li>
     </ul>
     """
 
